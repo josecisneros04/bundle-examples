@@ -16,6 +16,7 @@ targets:
     default: true
     workspace:
       host: https://company.databricks.com
+    
 
   prod:
     mode: production
